@@ -1,4 +1,4 @@
-<img width="1400" height="819" alt="image" src="https://github.com/user-attachments/assets/d7d3ec43-ef33-4b5b-bc6d-fc11ba6b2426" />
+![Home_Background](https://github.com/user-attachments/assets/f7098005-b650-44a8-96db-e788c301c445)
 
 # GateSim#
 

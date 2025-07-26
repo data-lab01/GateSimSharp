@@ -1,3 +1,5 @@
+<img width="1400" height="819" alt="image" src="https://github.com/user-attachments/assets/d7d3ec43-ef33-4b5b-bc6d-fc11ba6b2426" />
+
 # GateSim#
 
 **GateSim#** is a lightweight educational quantum circuit simulator built with C# and Blazor. It allows users to visually design simple quantum circuits and simulate how quantum gates (like Hadamard, Pauli-X, and CNOT) affect qubit states.
@@ -22,3 +24,4 @@
 ```bash
 dotnet run
 ```
+Ref: Image from -> https://medium.com/data-science/take-your-first-step-into-the-quantum-realm-a13e99fab886

@@ -1,4 +1,5 @@
-![Home_Background](https://github.com/user-attachments/assets/f7098005-b650-44a8-96db-e788c301c445)
+<img width="1932" height="1087" alt="image" src="https://github.com/user-attachments/assets/22cdf81f-75ef-4427-912f-9fdc9ecd454f" />
+
 
 # GateSim#
 
@@ -24,4 +25,4 @@
 ```bash
 dotnet run
 ```
-Ref: Image from -> https://medium.com/data-science/take-your-first-step-into-the-quantum-realm-a13e99fab886
+Ref: Image from -> https://unsplash.com/photos/a-series-of-three-images-with-a-green-and-black-background-SC5sXeyjloE

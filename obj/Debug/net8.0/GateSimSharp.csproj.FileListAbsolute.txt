@@ -1,3 +1,6 @@
+/Users/reveal/Documents/GateSimSharp/bin/Debug/net8.0/GateSimSharp.Core/obj/GateSimSharp.Core.csproj.nuget.dgspec.json
+/Users/reveal/Documents/GateSimSharp/bin/Debug/net8.0/GateSimSharp.Core/obj/project.assets.json
+/Users/reveal/Documents/GateSimSharp/bin/Debug/net8.0/Pages/_Host.cshtml
 /Users/reveal/Documents/GateSimSharp/bin/Debug/net8.0/GateSimSharp.staticwebassets.runtime.json
 /Users/reveal/Documents/GateSimSharp/bin/Debug/net8.0/GateSimSharp.staticwebassets.endpoints.json
 /Users/reveal/Documents/GateSimSharp/bin/Debug/net8.0/GateSimSharp
@@ -6,6 +9,9 @@
 /Users/reveal/Documents/GateSimSharp/bin/Debug/net8.0/GateSimSharp.dll
 /Users/reveal/Documents/GateSimSharp/bin/Debug/net8.0/GateSimSharp.pdb
 /Users/reveal/Documents/GateSimSharp/bin/Debug/net8.0/Microsoft.AspNetCore.Components.WebAssembly.dll
+/Users/reveal/Documents/GateSimSharp/bin/Debug/net8.0/Microsoft.AspNetCore.Http.Connections.Client.dll
+/Users/reveal/Documents/GateSimSharp/bin/Debug/net8.0/Microsoft.AspNetCore.SignalR.Client.dll
+/Users/reveal/Documents/GateSimSharp/bin/Debug/net8.0/Microsoft.AspNetCore.SignalR.Client.Core.dll
 /Users/reveal/Documents/GateSimSharp/bin/Debug/net8.0/Microsoft.JSInterop.WebAssembly.dll
 /Users/reveal/Documents/GateSimSharp/obj/Debug/net8.0/GateSimSharp.csproj.AssemblyReference.cache
 /Users/reveal/Documents/GateSimSharp/obj/Debug/net8.0/rpswa.dswa.cache.json
@@ -31,6 +37,3 @@
 /Users/reveal/Documents/GateSimSharp/obj/Debug/net8.0/GateSimSharp.pdb
 /Users/reveal/Documents/GateSimSharp/obj/Debug/net8.0/GateSimSharp.genruntimeconfig.cache
 /Users/reveal/Documents/GateSimSharp/obj/Debug/net8.0/ref/GateSimSharp.dll
-/Users/reveal/Documents/GateSimSharp/bin/Debug/net8.0/Microsoft.AspNetCore.Http.Connections.Client.dll
-/Users/reveal/Documents/GateSimSharp/bin/Debug/net8.0/Microsoft.AspNetCore.SignalR.Client.dll
-/Users/reveal/Documents/GateSimSharp/bin/Debug/net8.0/Microsoft.AspNetCore.SignalR.Client.Core.dll

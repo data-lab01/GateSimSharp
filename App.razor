@@ -1,7 +1,8 @@
+@using Microsoft.AspNetCore.Components
 @using Microsoft.AspNetCore.Components.Routing
 @using GateSimSharp.Shared
 
-<Router AppAssembly="@typeof(Program).Assembly">
+<Router AppAssembly="@typeof(App).Assembly">
     <Found Context="routeData">
         <RouteView RouteData="@routeData" DefaultLayout="@typeof(MainLayout)" />
     </Found>
@@ -11,3 +12,4 @@
         </LayoutView>
     </NotFound>
 </Router>
+

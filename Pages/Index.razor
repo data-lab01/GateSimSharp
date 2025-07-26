@@ -1,3 +1,58 @@
 @page "/"
-<h1>GateSim#</h1>
+
+<h1>Gate Simulator</h1>
 <p>Build and simulate simple quantum circuits.</p>
+
+<hr />
+
+<h3>Qubits</h3>
+@foreach (var qubit in Qubits)
+{
+    <div style="padding: 5px; border: 1px solid #ccc; margin-bottom: 4px;">
+        Qubit @qubitIndex++
+    </div>
+}
+<button @onclick="AddQubit">Add Qubit</button>
+
+<hr />
+
+<h3>Available Gates</h3>
+@foreach (var gate in AvailableGates)
+{
+    <button @onclick="() => AddGate(gate)">@gate</button>
+}
+
+<hr />
+
+<h3>Circuit</h3>
+<ul>
+@foreach (var gate in CircuitGates)
+{
+    <li>@gate</li>
+}
+</ul>
+
+<button @onclick="Simulate">Simulate</button>
+
+@code {
+    private List<string> Qubits = new();
+    private List<string> AvailableGates = new() { "H", "X", "CNOT" };
+    private List<string> CircuitGates = new();
+    private int qubitIndex = 0;
+
+    void AddQubit()
+    {
+        Qubits.Add($"Q{Qubits.Count}");
+    }
+
+    void AddGate(string gate)
+    {
+        CircuitGates.Add(gate);
+    }
+
+    void Simulate()
+    {
+        // TODO: Call backend or simulate locally
+        Console.WriteLine("Simulating...");
+    }
+}

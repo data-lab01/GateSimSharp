@@ -1,4 +1,4 @@
-<img width="1932" height="1087" alt="image" src="https://github.com/user-attachments/assets/22cdf81f-75ef-4427-912f-9fdc9ecd454f" />
+<img width="1740" height="1160" alt="image" src="https://github.com/user-attachments/assets/dcba8ff9-23cc-4276-a101-063ed5ac75bc" />
 
 
 # GateSim#
@@ -25,4 +25,4 @@
 ```bash
 dotnet run
 ```
-Ref: Image from -> https://unsplash.com/photos/a-series-of-three-images-with-a-green-and-black-background-SC5sXeyjloE
+Ref: Image from -> https://images.unsplash.com/photo-1620553170401-73d64186196d?q=80&w=1740&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D

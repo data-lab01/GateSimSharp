@@ -31,3 +31,6 @@
 /Users/reveal/Documents/GateSimSharp/obj/Debug/net8.0/GateSimSharp.pdb
 /Users/reveal/Documents/GateSimSharp/obj/Debug/net8.0/GateSimSharp.genruntimeconfig.cache
 /Users/reveal/Documents/GateSimSharp/obj/Debug/net8.0/ref/GateSimSharp.dll
+/Users/reveal/Documents/GateSimSharp/bin/Debug/net8.0/Microsoft.AspNetCore.Http.Connections.Client.dll
+/Users/reveal/Documents/GateSimSharp/bin/Debug/net8.0/Microsoft.AspNetCore.SignalR.Client.dll
+/Users/reveal/Documents/GateSimSharp/bin/Debug/net8.0/Microsoft.AspNetCore.SignalR.Client.Core.dll

@@ -52,6 +52,10 @@
               "target": "Package",
               "version": "[8.0.0, )"
             },
+            "Microsoft.AspNetCore.SignalR.Client": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
             "System.Numerics.Vectors": {
               "target": "Package",
               "version": "[4.5.0, )"

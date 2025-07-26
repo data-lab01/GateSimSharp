@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GateSimSharp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+269302ec85bcd815f54908e7641ef93c3d426d54")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+efc502e324a02dcb7136c4fb09c8cdf0d3e93723")]
 [assembly: System.Reflection.AssemblyProductAttribute("GateSimSharp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GateSimSharp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

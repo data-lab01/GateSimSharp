@@ -1,3 +1,5 @@
+using System.Numerics;
+
 public class Qubit
 {
     public Complex AmplitudeZero { get; set; }

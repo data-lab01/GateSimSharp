@@ -12,3 +12,13 @@
 - Students learning quantum computing
 - Developers prototyping circuits
 - Educators demonstrating superposition & entanglement
+
+## 🛠️ Tech Stack
+- .NET 8
+- Blazor WebAssembly
+- C# (no Q# required)
+
+## 📦 Run It
+```bash
+dotnet run
+```
